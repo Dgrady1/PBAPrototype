@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/decla/Documents/GitHub/PBAPrototype/Unreal Version/PBAUnrealPrototype/Content/Meshes/RechargeStation/RechargStation.uasset",
+				"C:/Users/decla/Documents/GitHub/PBAPrototype/Unreal Version/PBAUnrealPrototype/Content/Blueprints/BP_RechargeStation.uasset",
+				"C:/Users/decla/Documents/GitHub/PBAPrototype/Unreal Version/PBAUnrealPrototype/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/decla/Documents/GitHub/PBAPrototype/Unreal Version/PBAUnrealPrototype/Content/Blueprints/UserInterface/WBP_ProtoHud.uasset",
+				"C:/Users/decla/Documents/GitHub/PBAPrototype/Unreal Version/PBAUnrealPrototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/DM/WZ919SWYZH6EBUCP0MP1BA.uasset",
+				"C:/Users/decla/Documents/GitHub/PBAPrototype/Unreal Version/PBAUnrealPrototype/Content/Blueprints/BP_Pickup.uasset",
+				"C:/Users/decla/Documents/GitHub/PBAPrototype/Unreal Version/PBAUnrealPrototype/Content/Materials/PostProcess/M_CelShade.uasset",
+				"C:/Users/decla/Documents/GitHub/PBAPrototype/Unreal Version/PBAUnrealPrototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/BR/WQ6ZE7IAWH9966DRI6FUF0.uasset",
+				"C:/Users/decla/Documents/GitHub/PBAPrototype/Unreal Version/PBAUnrealPrototype/Content/Materials/Emmission/M_EmmissionBase.uasset",
+				"C:/Users/decla/Documents/GitHub/PBAPrototype/Unreal Version/PBAUnrealPrototype/Content/Materials/Emmission/M_BlueEmmission.uasset",
+				"C:/Users/decla/Documents/GitHub/PBAPrototype/Unreal Version/PBAUnrealPrototype/Content/Materials/Emmission/M_RedEmmission.uasset",
+				"C:/Users/decla/Documents/GitHub/PBAPrototype/Unreal Version/PBAUnrealPrototype/Content/Materials/Emmission/M_GreenEmmission.uasset",
+				"C:/Users/decla/Documents/GitHub/PBAPrototype/Unreal Version/PBAUnrealPrototype/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/decla/Documents/GitHub/PBAPrototype/Unreal Version/PBAUnrealPrototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
+				"C:/Users/decla/Documents/GitHub/PBAPrototype/Unreal Version/PBAUnrealPrototype/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/0I/QIEEQUTQ9D9UGDGVMBE4G7.uasset",
+				"C:/Users/decla/Documents/GitHub/PBAPrototype/Unreal Version/PBAUnrealPrototype/Content/Blueprints/UserInterface/WBP_Hud.uasset"
+			]
+		}
+	]
+}
