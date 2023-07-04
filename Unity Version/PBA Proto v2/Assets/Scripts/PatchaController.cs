@@ -31,8 +31,8 @@ public class PatchaController : MonoBehaviour
     private float jumpCooldown = 0.1f;
     private float jumpCooldownTimer;
     public bool isGrounded = true;
-    public float ascentSpeed = 10f; // Adjust this value to control the speed of ascent
-    public float ascentDuration = 0.5f; // Adjust this value to control the duration of the ascent
+    public float ascentSpeed = 10f; 
+    public float ascentDuration = 0.5f; 
     private float jumpTimer = 0f;
     public float ascentSpeedMultiplier = 2.0f;
 
